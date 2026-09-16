@@ -17,7 +17,6 @@ The system acts as an intelligent assistant capable of answering complex HR quer
 - **Vector Database:** Pinecone for secure, private knowledge-base vector indexing  
 - **Search Capability:** Tavily for intelligent web fallback when internal data is insufficient  
 - **Backend:** FastAPI for building high-performance, scalable API services  
-- **Observability:** LangSmith for deep tracing and monitoring the agent's decision-making process  
 - **Deployment:** Docker containerization hosted on DigitalOcean Cloud  
 
 ---
